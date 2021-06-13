@@ -1,0 +1,52 @@
+#cabecalho {
+    color: yellow;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#secao1 {
+    color: rebeccapurple;
+    text-align: justify;
+    border: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: yellow;
+}
+
+#secao2 {
+    color: rebeccapurple;
+    text-align: justify;
+    border: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: yellow;
+}
+
+#secao3 {
+    color: rebeccapurple;
+    text-align: justify;
+    border: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: yellow;
+}
+
+#secao4 {
+    color: rebeccapurple;
+    text-align: justify;
+    border: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: yellow;
+}
+
+#Rodape {
+    color: rebeccapurple;
+    text-align: justify;
+    border: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: yellow;
+}
+
+body {
+    background-image: url(psicodelico.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
