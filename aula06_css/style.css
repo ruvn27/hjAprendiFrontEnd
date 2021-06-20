@@ -1,0 +1,23 @@
+* {
+    font-family: 'Dancing Script';
+}
+
+img {
+    width: 50px;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-weight: 200;
+    text-align: right;
+    color: darkslateblue;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-weight: 200;
+    text-align: center;
+    color: indigo;
+}
