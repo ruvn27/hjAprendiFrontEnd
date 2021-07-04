@@ -108,13 +108,13 @@ a:visited{
   align-items: center;
   margin-left: 30rem;
   font-size: 1.5rem;
-  padding-left: 1rem;
+
 }
 
 .radio{
   width: 2rem;
   height: 2rem;
-  margin-left: 2rem;
+  margin-left: 3.5rem;
 }
 
 .textarea-submit{ 
