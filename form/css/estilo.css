@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-boxs;
+}
+
+.header {
+  width: 100%;
+  height: 50%;
+}
+
+.logo{
+  width: 100px;
+}
+
+.menu{
+  position: absolute;
+  right: 5%;
+  top: 5%;
+}
+
+.item{
+  width: 2px;
+  height: 2px;
+  background-color: blueviolet;
+  display: inline;
+  padding: 5px;
+}
+
+#procura{
+  position: absolute;
+  right: 50%;
+  top: 5%;
+  padding: 10px;
+
+}
